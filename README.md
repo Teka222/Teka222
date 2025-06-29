@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Tekano</h1>
+<h3 align="center">Front-End Developer | ALX SE Learner | Mental Health Tech Enthusiast</h3>
 
-<!--
-**Teka222/Teka222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌍 **About Me**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+I'm a passionate front-end developer and an ALX Software Engineering learner currently on the **Pro Dev Front-End track**. My journey into tech began with curiosity and a desire to understand how the web works — not just visually, but functionally.
+
+💡 What truly inspires me is the potential of technology to improve lives. I'm especially interested in building solutions that support **mental health and well-being**.
+
+🎯 **My Vision:**  
+To create digital tools that make mental health support more accessible, starting with a simple, user-friendly mental wellness app.
+
+---
+
+🚀 **Tech Stack**
+---
+
+```html
+Languages:   HTML5 • CSS3 • JavaScript (ES6) • TypeScript  
+Frameworks:  React • Tailwind CSS • Bootstrap  
+Tools:       Git • GitHub • Vite • Figma • npm • Netlify • VS Code  
+Currently Learning: Redux • Next.js • Unit Testing (Jest + React Testing Library)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
